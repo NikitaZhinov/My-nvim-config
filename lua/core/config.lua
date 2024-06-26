@@ -2,10 +2,10 @@ vim.wo.number = true
 vim.wo.relativenumber = false
 
 vim.opt.scrolloff = 8
-vim.opt.wrap = false
+vim.opt.wrap = true
 vim.wo.linebreak = true
 vim.opt.virtualedit = "block"
-vim.opt.undofile = true
+vim.opt.undofile = false
 vim.opt.shell = "/bin/zsh"
 
 -- Mouse
