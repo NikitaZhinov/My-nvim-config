@@ -44,4 +44,5 @@ require("lazy").setup({
     },
     { 'lewis6991/gitsigns.nvim' },
     { 'akinsho/toggleterm.nvim', version = "*", config = true },
+    { 'jose-elias-alvarez/null-ls.nvim' },
 })
